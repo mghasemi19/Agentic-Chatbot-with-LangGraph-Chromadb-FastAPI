@@ -4,7 +4,7 @@ An open-source **agentic AI chatbot** built with **Python, FastAPI, LangGraph, L
 
 It supports real-time streaming chat, document uploads, retrieval-augmented generation (RAG), web search, conversation memory, and a simple web UI.
 
-![Project architecture diagram](diagram.png)
+<img width="2380" height="1496" alt="diagram" src="https://github.com/user-attachments/assets/d047f3e7-30ca-4d1d-8b9e-3820788e85c7" />
 
 ---
 
